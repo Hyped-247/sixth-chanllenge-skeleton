@@ -1,3 +1,8 @@
+"""
+    This is just an example to get you started.
+    1- Test for None values.
+    2- Make sure that the Term class constructor only takes numbers.
+"""
 import unittest
 from term import Term
 

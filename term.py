@@ -1,10 +1,12 @@
 class Term:
     def __init__(self, coefficient, power):
-        self._coefficient = coefficient
-        self._power = power
+        # Todo: Implement me
+        pass
 
     def get_power(self):
-        return self._power
+        # Todo: Implement me
+        pass
 
     def get_coefficient(self):
-        return self._coefficient
+        # Todo: Implement me
+        pass
